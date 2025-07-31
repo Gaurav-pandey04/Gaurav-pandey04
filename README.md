@@ -29,9 +29,9 @@ Check out more in my [Repositories](https://github.com/Gaurav-pandey04?tab=repos
 | Language | Framework/Library | Tools |
 |----------|-------------------|-------|
 | JavaScript | Node.js, Socket.io | Git, GitHub |
-| Python | - | VS Code |
+| Python | Pandas, Numoy | VS Code |
 | C++ | - | Linux Terminal |
-| HTML/CSS | - | Chrome DevTools |
+| HTML/CSS | Tailwind | Chrome DevTools |
 
 ---
 
@@ -54,19 +54,6 @@ I regularly practice coding challenges on LeetCode to stay sharp 🚀
 
 ---
 
-## 🪄 Fancy Widgets
-
-- 🐍 GitHub contribution animation:
-  
-  ![GitHub Contribution Snake](https://github.com/Gaurav-pandey04/Gaurav-pandey04/blob/output/github-contribution-grid-snake.svg)
-
-- 🧠 GitHub Metrics (custom dashboard):
-  
-  ![Metrics](https://raw.githubusercontent.com/Gaurav-pandey04/Gaurav-pandey04/main/github-metrics.svg)
-
-*(Set this up using [lowlighter/metrics](https://github.com/lowlighter/metrics) and GitHub Actions)*
-
----
 
 ## 🛡️ Badges
 
