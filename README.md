@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on building responsive website
 - 📫 Reach me at gauravp041104@gmail.com
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gaurav-pandey-04)
+
 <!---
 Gaurav-pandey04/Gaurav-pandey04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
