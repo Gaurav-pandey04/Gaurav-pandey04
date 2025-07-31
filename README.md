@@ -1,12 +1,11 @@
 <!-- README.md for Gaurav-pandey04 -->
 
 # 👋 Hi there, I'm Gaurav Pandey!
-
-🎓 I'm a Computer Science undergrad at Lakshmi Narain College of Technology.  
+ 
 📚 Currently exploring full-stack development and deepening my DSA skills.  
 💡 Passionate about building projects, solving logical problems, and learning new tech.  
 🤝 Open to opportunities and collaboration in tech and open source!  
-📫 Reach out to me at: gauravp041104@gmail.com
+📫 Reach out to me at: gauravp989043@gmail.com
 
 ---
 
