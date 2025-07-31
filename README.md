@@ -39,7 +39,6 @@ Check out more in my [Repositories](https://github.com/Gaurav-pandey04?tab=repos
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-pandey04&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-pandey04&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav-pandey04&theme=dark)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Gaurav-pandey04&theme=radical)
 
 ---
